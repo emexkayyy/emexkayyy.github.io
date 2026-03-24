@@ -3,7 +3,7 @@ p {
   font-size: 16px;
 }
 
-a {
+a:link {
     color: rgb(4, 4, 105);
     font-size: 200px;
 }
