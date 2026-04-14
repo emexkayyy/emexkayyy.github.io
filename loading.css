@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+}
+
+.big-box {
+    border: solid 10px red;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.load-text {
+    border: solid 10px turquoise;
+    flex-grow: 1;
+}
+
+.load-text > p {
+    font-size: 10vh;
+    text-align: center;
+}
+
+.Mathematics_ {
+    border: solid 10px purple;
+}
