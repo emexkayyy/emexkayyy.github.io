@@ -20,6 +20,7 @@
     text-align: center;
 }
 
-.Mathematics_ {
+.Mathematics {
     border: solid 10px purple;
+    flex-grow: 1;
 }

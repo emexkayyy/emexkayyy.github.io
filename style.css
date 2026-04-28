@@ -1,21 +1,21 @@
 html {
     background-color: rgb(242, 221, 255);
-    }
+}
 
-    p {
-      color: rgb(143, 2, 33);
-        font-size: 15px;
-        }
+p {
+    color: rgb(143, 2, 33);
+    font-size: 15px;
+}
 
-        a:link {
-            color: rgb(4, 4, 105);
-                font-size: 200px;
-                }
-                a:visited {
-                  color: rgb(4, 4, 105);
-                  }
-                  a:hover {
-                    background-color: rgb(43, 43, 43);
-                    }
-                    
+a:link {
+    color: rgb(4, 4, 105);
+    font-size: 200px;
+}
+
+a:visited {
+    color: rgb(4, 4, 105);
+}
+
+a:hover {
+    background-color: rgb(43, 43, 43);
 }
