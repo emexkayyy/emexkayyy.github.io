@@ -12,7 +12,10 @@
 
 .load-text {
     border: solid 10px turquoise;
+    display: flex;
     flex-grow: 1;
+    align-items: center;
+    flex-direction: column;
 }
 
 .load-text > p {
@@ -23,4 +26,14 @@
 .Mathematics {
     border: solid 10px purple;
     flex-grow: 1;
+}
+
+.Mathematics > h1 {
+    font-size: 77px;
+}
+
+#hoome {
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
 }
