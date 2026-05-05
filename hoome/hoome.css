@@ -1,0 +1,9 @@
+.grid {
+    display: grid;
+    align-items: center;
+    padding: 10px;
+    grid-template-columns: auto auto auto ;
+}
+.titel {
+    font-size: xx-large;
+}
