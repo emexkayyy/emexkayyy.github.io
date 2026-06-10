@@ -1,0 +1,1 @@
+Aphmauverse images are all rights reserved by CatFace Animations and Aphmeow.com 

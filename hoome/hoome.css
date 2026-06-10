@@ -1,9 +1,61 @@
+@font-face {
+    font-family: "ransom";
+    src: url("../fontz/ransom.ttf") format("truetype" );
+}
+
 .grid {
     display: grid;
     align-items: center;
     padding: 10px;
-    grid-template-columns: auto auto auto ;
+    grid-template-columns: auto auto auto auto ;
+    gap: 20px;
 }
 .titel {
     font-size: xx-large;
+    
+}
+.Poostehr_titleh {
+    font-weight: bold;
+}
+
+button {
+    background-color: black;
+    color: #870333;
+   height: 30px;
+    width: 50%;
+    font-weight: 900;
+}
+.leesting:hover {
+    button {
+      background-color: #730a0a;
+        color: #d91818;
+    }
+   
+    img {
+        border-color: red;
+        border-style: dashed;
+    
+    }
+    .Poostehr_titleh {
+        color: red;
+    }
+    .preece {
+        color: red;
+    }
+    
+}
+img {
+    width: 181px
+}
+#toolz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom, black, #940314);
+    color: #ecc6d5;
+    font-family: ransom;
+}
+
+html {
+    background-color: #f9e7e7;
 }
